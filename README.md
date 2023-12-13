@@ -8,4 +8,8 @@ Database used in ths project is SQLite.
 
 ## Video 
 
+https://github.com/Jassim-Albreekan/Favorite_places_app/assets/152608559/0d06fd2d-cf1f-45b8-9bec-cc92408f384a
+
+
+
 
