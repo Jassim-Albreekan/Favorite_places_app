@@ -1,6 +1,6 @@
 ## Favorite Places Flutter App
 
-Users take a photo and pickup their location then add them to a list.
+Users take a photo and pickup their location then add them to a favorite list.
 
 Database used in this project is SQLite.
 
