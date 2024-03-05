@@ -5,7 +5,7 @@ import 'dart:convert';
 
 // Define a const String field named GOOGLE_API_KEY, which stores the Google Maps API key
 // You can get your own API key from the Google Cloud Platform Console
-const String GOOGLE_API_KEY = '';
+const String GOOGLE_API_KEY = 'use your own key here';
 
 // Define the LocationHelper class, which is a class that provides static methods to get the image and address of a location
 class LocationHelper {
