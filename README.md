@@ -1,10 +1,13 @@
 ## Favorite Places Flutter App
 
-Users take a photo and pickup their location then add them to a favorite list.
+The idea of this app os that users take a photo and pickup their location then add them to a favorite list.
+
+This app is created using Flutter and Dart frame work.
 
 Database used in this project is SQLite.
 
 🔴 note : this project was finished in 2022, some widgets and pachages might need updating or replacing.
+🔴 note : For financial reasons to use this project you'll need to assign your own google maps SDK key to it and your own SQLite database.
 
 ## Video 
 
