@@ -10,7 +10,6 @@ Database used in this project is SQLite.<br>
 🔴 note : For financial and security reasons to use this project you'll need to assign your own google maps SDK key to it and your own SQLite database.<br>
 
 ## Video 
-
-https://youtu.be/_Ybgfnku7GM
-
+Click here
+👇
 [![Favorite_places_app](https://img.youtube.com/vi/_Ybgfnku7GM/0.jpg)](https://www.youtube.com/watch?v=_Ybgfnku7GM)
